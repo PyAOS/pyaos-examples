@@ -14,6 +14,7 @@ Files and directories
 
 * README.md:  This file.
 * LICENSE.md:  A description of the license this code is provided under.
+* imgs:  Images related to the pyaos-examples package.
 * widgets:  This directory contains small GUI programs to calculate a
 variety of meterological quantities.  A number of these widgets are
 useful for teaching.
